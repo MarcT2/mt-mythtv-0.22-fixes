@@ -23,5 +23,6 @@ RDEPEND="=media-tv/mythtv-${PV}
 	=media-plugins/mythgame-${PV}
 	=media-plugins/mythweather-${PV}
 	=media-plugins/mythgallery-${PV}
+	=media-plugins/mythflix-${PV}
 	=media-plugins/mythbrowser-${PV}
 	=media-plugins/mythnews-${PV}"
